@@ -29,3 +29,32 @@ This project has empowered me in multiple skills:
 
 ## Outcome
 By completing this project, I've strengthened my understanding of how modern web applications specifically MERN apps  are built and connected end to end.
+
+## 🧪 .env Setup
+
+### Backend (`/backend`)
+
+```
+MONGO_URI=<your_mongo_uri>
+
+UPSTASH_REDIS_REST_URL=<your_redis_rest_url>
+UPSTASH_REDIS_REST_TOKEN=<your_redis_rest_token>
+
+NODE_ENV=development
+```
+
+## 🔧 Run the Backend
+
+```
+cd backend
+npm install
+npm run dev
+```
+
+## 💻 Run the Frontend
+
+```
+cd frontend
+npm install
+npm run dev
+```
