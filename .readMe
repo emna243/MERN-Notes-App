@@ -1,0 +1,37 @@
+# Project Overview
+
+This website is a MERN stack notes application that demonstrates how to build a full-stack web app from scratch. It covers the core techniques used in modern web development, from frontend design to backend APIs and database integration.
+
+## Techniques Covered
+
+### Frontend Techniques
+- React functional components and hooks
+- State management with useState and useEffect
+- React Router for page navigation
+- Axios for communicating with the backend
+- Tailwind CSS and DaisyUI for modern UI styling
+- Toast notifications for user feedback
+- Loading, empty-state, and error-state handling
+
+### Backend Techniques
+- Node.js and Express server setup
+- RESTful API structure
+- CRUD operations for notes
+- MongoDB database connection using Mongoose
+- Environment variables for configuration
+- CORS setup for frontend-backend communication
+- Rate limiting using Upstash Redis
+
+### Full-Stack Development Techniques
+- Connecting a React frontend to an Express backend
+- Sending and receiving JSON data between client and server
+- Building reusable components and modular project folders
+- Handling forms and user actions efficiently
+- Structuring a project for scalable development
+
+## What This Project Teaches
+- How to create a complete notes app using the MERN stack
+- How to build an API and connect it to a database
+- How to design a responsive UI with Tailwind CSS
+- How to manage client-server communication in a real project
+- How to apply common web development best practices
